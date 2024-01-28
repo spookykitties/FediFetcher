@@ -1,8 +1,9 @@
 {
   "server": "spookykitties.com",
-  "home-timeline-length": 50,
+  "home-timeline-length": 200,
   "max-followings": 80,
-  "from-notifications": 5,
-  "max-favorites": 5,
-  "max-followers": 20
+  "from-notifications": 1,
+  "max-favorites": 40,
+  "max-followers": 80,
+  "max-bookmarks": 80,
 }
